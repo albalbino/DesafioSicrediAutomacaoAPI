@@ -1,0 +1,11 @@
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\SimulationRegisterForCPFExistingTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\SimulationRegisterWithSuccessTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\get\ValidatesReturnAllSimulationsIndexedSuccessTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\put\ValidateChangeInOneSimulationExistingTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\get\ValidatesReturnWithoutNoneSimulationRegisterTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\restriction\suite\ValidateCPFWithoutRestrictionTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\delete\ValidatesReturnAttemptDeleteOneSimulationNoRegisterTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\SimulationRegisterWithoutSuccessTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\put\ValidateChangeSimulationRegisteredCPFNotFoundTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\restriction\suite\ValidateCPFWithRestrictionTest.java
+C:\Users\alexandre.lopes\eclipse-workspace\DesafioSicrediAutomacaoAPI\src\main\java\br\albalbino\sicredi\api\simulation\suite\MainConsultationSimulationCPFTest.java

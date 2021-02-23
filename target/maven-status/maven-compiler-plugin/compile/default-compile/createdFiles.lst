@@ -1,0 +1,11 @@
+br\albalbino\sicredi\api\simulation\suite\SimulationRegisterWithoutSuccessTest.class
+br\albalbino\sicredi\api\simulation\suite\get\ValidatesReturnWithoutNoneSimulationRegisterTest.class
+br\albalbino\sicredi\api\simulation\suite\SimulationRegisterWithSuccessTest.class
+br\albalbino\sicredi\api\restriction\suite\ValidateCPFWithoutRestrictionTest.class
+br\albalbino\sicredi\api\simulation\suite\put\ValidateChangeInOneSimulationExistingTest.class
+br\albalbino\sicredi\api\simulation\suite\put\ValidateChangeSimulationRegisteredCPFNotFoundTest.class
+br\albalbino\sicredi\api\simulation\suite\delete\ValidatesReturnAttemptDeleteOneSimulationNoRegisterTest.class
+br\albalbino\sicredi\api\simulation\suite\MainConsultationSimulationCPFTest.class
+br\albalbino\sicredi\api\restriction\suite\ValidateCPFWithRestrictionTest.class
+br\albalbino\sicredi\api\simulation\suite\SimulationRegisterForCPFExistingTest.class
+br\albalbino\sicredi\api\simulation\suite\get\ValidatesReturnAllSimulationsIndexedSuccessTest.class
